@@ -1,0 +1,254 @@
+/* Category Hover */
+
+.category:hover {
+	transition: all .2s ease;
+	transform: perspective(1000px) translateX(4px);
+}
+
+/* Intro (Day, Search ) */
+
+.news {
+	font-size: 3rem;
+	font-family: 'Alegreya', serif;
+	text-transform: none;
+	color: var(--primary-color);
+	background: none;
+}
+
+/* Intro Horoizont Line */
+
+.mini {
+	border: none;
+	margin-bottom: 40px;
+	border-bottom: 1px solid #d2d1d1;
+}
+
+/* Navigation Bar : Hover  */
+
+.navbar li:hover {
+	color: #999999;
+	transition: all .19s ease;
+}
+
+/* Sidebar Article | Blog Search  */
+
+.blog-search input:focus {
+	outline: none;
+}
+
+.blog-search button:focus {
+	outline: none;
+}
+
+.blog-search button:hover {
+	opacity: 0.9;
+	transition: all .2s ease;
+}
+
+.sidebar-article .card a:hover,
+.sidebar-article .card h3:hover {
+	color: #656565;
+	transition: all .2s ease;
+}
+
+/* Social Media Hover */
+
+.navbar .fa-twitter:hover {
+	color: #71c9f8;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.navbar .fa-facebook-f:hover {
+	color: #4064ac;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.navbar .fa-google-plus-g:hover {
+	color: #dd4b39;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.navbar .fa-youtube:hover {
+	color: #f70000;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.navbar .fa-rss:hover {
+	color: #e19126;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+/* Newsletter Button | Hover:focus */
+
+.newsletter button:focus {
+	outline: none;
+	cursor: pointer;
+}
+
+.newsletter button:hover {
+	opacity: 0.9;
+	transition: all .2s ease;
+}
+
+/* Newsletter Social Media Hover */
+
+.newsletter .fa-twitter:hover {
+	color: #71c9f8;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.newsletter .fa-facebook-f:hover {
+	color: #4064ac;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.newsletter .fa-google-plus-g:hover {
+	color: #dd4b39;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.newsletter .fa-youtube:hover {
+	color: #f70000;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+.newsletter .fa-rss:hover {
+	color: #e19126;
+	transition: all .2s ease;
+	transform: perspective(1000px) translateY(-10px);
+}
+
+/* Latest News */
+
+.latest-news h3:hover {
+	color: #656565;
+	transition: all .2s ease;
+	cursor: pointer;
+}
+
+/* Contact */
+
+.contact input:focus {
+	outline: none;
+	color: #1c1c21;
+}
+
+.contact textarea:focus {
+	outline: none;
+	color: #1c1c21;
+}
+
+.contact button:focus {
+	outline: none;
+}
+
+.contact button:hover {
+	opacity: 0.9;
+	transition: all .2s ease;
+}
+
+/* Articles | Hover */
+
+.sidebar-article .card a:hover,
+.sidebar-article .card h3:hover {
+	color: #656565;
+	transition: all .2s ease;
+}
+
+/* Find us here | Social Media */
+
+.primary-footer .social .fa-twitter {
+	color: #71c9f8;
+}
+
+.primary-footer .social .fa-facebook-f {
+	color: #4064ac;
+}
+
+.primary-footer .social .fa-google-plus-g {
+	color: #dd4b39;
+}
+
+.primary-footer .social .fa-youtube {
+	color: #f70000;
+}
+
+.primary-footer .social .fa-rss {
+	color: #e19126;
+}
+
+/* Find us here | Social Media  Hover */
+
+.primary-footer .social .fa-twitter:hover {
+	background: #71c9f8;
+	color: #fff;
+	transition: all .2s ease;
+}
+
+.primary-footer .social .fa-facebook-f:hover {
+	background: #4064ac;
+	color: #fff;
+	transition: all .2s ease;
+}
+
+.primary-footer .social .fa-google-plus-g:hover {
+	background: #dd4b39;
+	color: #fff;
+	transition: all .2s ease;
+}
+
+.primary-footer .social .fa-youtube:hover {
+	background: #f70000;
+	color: #fff;
+	transition: all .2s ease;
+}
+
+.primary-footer .social .fa-rss:hover {
+	background: #e19126;
+	color: #fff;
+	transition: all .2s ease;
+}
+
+/* Find us here | Span-Thin */
+
+.thick {
+	font-size: 1.3rem;
+	font-weight: 600;
+	font-family: 'PT Sans', sans-serif;
+	text-transform: uppercase;
+	color: #5a5a5a;
+	padding-left: 10px;
+}
+
+/* Find us here | Span-Link */
+
+.link {
+	font-size: 0.8rem;
+	font-family: 'PT Sans', sans-serif;
+	font-weight: 600;
+}
+
+.link:hover {
+	color: #71c9f8;
+	text-decoration: underline;
+	transition: all .2s ease;
+}
+
+/* Footer - Explore the KINGnews*/
+
+.footer .footer-nav a:hover {
+	text-decoration: underline;
+}
+
+.footer .terms p:hover {
+	text-decoration: underline;
+}
