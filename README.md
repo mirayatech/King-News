@@ -6,10 +6,8 @@ I wanted to stregthen my skill on `CSS-Grid`. The best way to do it, was to crea
 
 ## What I learned 🧠
 - Heavely focused on `CSS-Grid` and the `design`
-- 
 ## How it looks 🎥
 
-**Live:** https://kingnews.netlify.app/home/home
 
 https://user-images.githubusercontent.com/71933266/170868611-d2edaf47-34b3-4364-b122-e0911de55e16.mp4
 
